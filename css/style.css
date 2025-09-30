@@ -1,8 +1,11 @@
+/* regole */
 *{
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
+/* fine sezione regole */
+/* inizio definizione di zone */
 body{
     background-color: rgb(243, 241, 238);
     font-family: sans-serif;
@@ -12,6 +15,8 @@ header{
     background-color: lightgrey;
     border-bottom: 1px solid lightgray;
 }
+/* Fine definizione di zone */
+/* inizio imagini e header */
 #logo-ima{
     width: 70px;
     vertical-align: middle;
@@ -20,6 +25,9 @@ header{
  font-size: 40px;
  vertical-align: middle;
 }
+/* Fine zona immagini e header */
+/* inizio comfifurazione di strumenti etipologia di scritura */
+
 .l-bianche{
  color: white;
 }
@@ -128,3 +136,4 @@ ul{
     margin-top: 10px;
     font-size: 10px;
 }
+/* fine comfifurazione di strumenti etipologia di scritura */
