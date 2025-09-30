@@ -60,6 +60,9 @@ h3{
 li{
     padding: 10px;
 }
+ul{
+    list-style-type: none;
+}
 .check{
   color: lightgreen;
   display: inline-block;
@@ -87,6 +90,7 @@ li{
     background-color: rgb(151, 209, 228);
     border-radius: 100px;
     margin-top: 10px;
+    font-size: 10px;
 
 }
 .q1{
@@ -94,28 +98,33 @@ li{
     background-color: rgb(114, 67, 177);
     border-radius: 100px;
     margin-top: 10px; 
+    font-size: 10px;
 }
 .reclutare{
         padding: 10px 15px 10px 15px;
     background-color: rgb(31, 116, 43);
     border-radius: 100px;
     margin-top: 10px;
+    font-size: 10px;
 }
 .mobile{
         padding: 10px 15px 10px 15px;
     background-color: rgb(197, 105, 30);
     border-radius: 100px;
     margin-top: 10px;
+    font-size: 10px;
 }
 .sito{
         padding: 10px 15px 10px 15px;
     background-color: rgb(247, 44, 155);
     border-radius: 100px;
     margin-top: 10px;
+    font-size: 10px;
 }
 .vendite{
         padding: 10px 15px 10px 15px;
     background-color: rgb(53, 184, 53);
     border-radius: 100px;
     margin-top: 10px;
+    font-size: 10px;
 }
